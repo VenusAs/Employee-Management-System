@@ -1,0 +1,10 @@
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# 数据文件（如果你不想把本地测试数据上传）
+employees.json
+
+# VS Code 配置
+.vscode/
